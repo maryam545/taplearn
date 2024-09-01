@@ -54,7 +54,6 @@ body {
 }
 .left_nav a:hover {
   color: rgb(0, 195, 255);
-  transition: all 0.5s ease-in-out;
 }
 .left_nav img {
   width: 20px;
@@ -89,6 +88,7 @@ body {
   border-radius: 2px;
   left: 0;
   top: 2px;
+  transition: all 0.4s ease-in-out;
 }
 .main-header {
   width: 60%;
